@@ -1,0 +1,16 @@
+.calcResult {
+  font-size: 40px;
+}
+.calcBtn,
+.calcOperand {
+  background-color: rgb(53, 52, 52);
+  color: white;
+  border: none;
+  border-radius: 100px;
+  width: 70px;
+  height: 70px;
+  font-size: 20px;
+}
+.calcOperand {
+  background-color: rgb(255, 192, 5);
+}
